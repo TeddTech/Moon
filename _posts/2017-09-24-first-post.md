@@ -1,7 +1,7 @@
 ﻿--- <br>
 layout: post
 <br>
-title: "First"
+title: "First Post"
 <br>
 date: 2017-09-24
 <br>
