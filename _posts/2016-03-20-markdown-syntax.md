@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
-title:  "Markdown Syntax"
+title:  "First"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Click Read More to view my first blog post."
 tag:
 - markdown 
 - syntax
@@ -11,6 +11,10 @@ tag:
 - jekyll
 comments: true
 ---
+
+## FIRST
+
+Hello my name is Ted Thompson and I am going to change the world. I moved to Vanvouver earlier this month from Windsor. I am settling in nicely. I am interested to see what this new chapter in my life has in store.
 
 ## HTML Elements
 

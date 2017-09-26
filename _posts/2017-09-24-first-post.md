@@ -1,11 +1,8 @@
-﻿--- <br>
+﻿---
 layout: post
-<br>
 title: "First Post"
-<br>
 date: 2017-09-24
-<br>
-excerpt: "Click *Read More* to view my first blog post." <br>
+excerpt: "Click Read More to view my first blog post."
 ---
 
 
